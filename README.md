@@ -2,5 +2,7 @@
 
 ![Cult of the Lamb](cult.png)
 
-  $ ls
-  coucou
+
+```python
+print("Hello World")
+```
